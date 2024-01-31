@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Description of proposal}{2}{}%
+\contentsline {section}{\numberline {2}Market and competition}{3}{}%
+\contentsline {section}{\numberline {3}Income sources}{4}{}%
+\contentsline {section}{\numberline {4}Stakeholders}{5}{}%
+\contentsline {section}{\numberline {5}SWOT Analysis}{6}{}%
+\contentsline {section}{\numberline {6}Product Backlog}{7}{}%
+\contentsline {section}{\numberline {7}Tools used in the document}{8}{}%
+\contentsline {section}{\numberline {8}References}{9}{}%
